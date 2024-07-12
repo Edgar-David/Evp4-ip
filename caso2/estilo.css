@@ -1,0 +1,38 @@
+#contenedor{
+    width:400px;
+    height: 400px;
+    margin:40px auto;
+   
+    background-color:skyblue ;
+    
+}
+td,p{
+    text-align: center;
+    height: 30px;        
+}
+
+#alea{
+    float:left;
+    margin:30px;   
+}
+#impre{
+    margin-top:30px;
+   
+    padding-top:10px
+}
+textarea{
+    margin-top:30px;
+    resize: none; 
+    margin: auto;
+    text-align: center;
+    border:1px solid blue;
+}
+p{
+    font-size: 30px;
+    font-weight: bold;
+    
+}
+#boton{
+    margin-top: 20px;
+    padding:10px;
+}
